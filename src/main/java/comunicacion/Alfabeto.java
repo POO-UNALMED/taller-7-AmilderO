@@ -30,6 +30,6 @@ public class Alfabeto extends Pictograma {
 		return letras.length;
 	}
 	public String toString() {
-		return String.join("", letras);
+		return String.join(", ", letras);
 	}
 }

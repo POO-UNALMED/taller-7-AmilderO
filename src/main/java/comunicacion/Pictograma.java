@@ -9,6 +9,7 @@ public abstract class Pictograma {
 	public Pictograma(String origen) {
 		super();
 		this.origen = origen;
+		
 	}
 	
 	// Getters.
